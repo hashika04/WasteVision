@@ -1,0 +1,97 @@
+Model,True,Predicted,Count
+Baseline Random Forest,dry,dry,1
+Baseline Random Forest,dry,wet,13
+Baseline Random Forest,dry,recyclable,87
+Baseline Random Forest,dry,ewaste,4
+Baseline Random Forest,wet,dry,0
+Baseline Random Forest,wet,wet,2194
+Baseline Random Forest,wet,recyclable,326
+Baseline Random Forest,wet,ewaste,11
+Baseline Random Forest,recyclable,dry,0
+Baseline Random Forest,recyclable,wet,342
+Baseline Random Forest,recyclable,recyclable,2046
+Baseline Random Forest,recyclable,ewaste,47
+Baseline Random Forest,ewaste,dry,0
+Baseline Random Forest,ewaste,wet,57
+Baseline Random Forest,ewaste,recyclable,237
+Baseline Random Forest,ewaste,ewaste,146
+Class-Weighted Random Forest,dry,dry,10
+Class-Weighted Random Forest,dry,wet,16
+Class-Weighted Random Forest,dry,recyclable,74
+Class-Weighted Random Forest,dry,ewaste,5
+Class-Weighted Random Forest,wet,dry,0
+Class-Weighted Random Forest,wet,wet,2124
+Class-Weighted Random Forest,wet,recyclable,341
+Class-Weighted Random Forest,wet,ewaste,66
+Class-Weighted Random Forest,recyclable,dry,5
+Class-Weighted Random Forest,recyclable,wet,334
+Class-Weighted Random Forest,recyclable,recyclable,1948
+Class-Weighted Random Forest,recyclable,ewaste,148
+Class-Weighted Random Forest,ewaste,dry,2
+Class-Weighted Random Forest,ewaste,wet,43
+Class-Weighted Random Forest,ewaste,recyclable,133
+Class-Weighted Random Forest,ewaste,ewaste,262
+Baseline CNN,dry,dry,0
+Baseline CNN,dry,wet,14
+Baseline CNN,dry,recyclable,66
+Baseline CNN,dry,ewaste,25
+Baseline CNN,wet,dry,0
+Baseline CNN,wet,wet,2136
+Baseline CNN,wet,recyclable,370
+Baseline CNN,wet,ewaste,25
+Baseline CNN,recyclable,dry,0
+Baseline CNN,recyclable,wet,357
+Baseline CNN,recyclable,recyclable,1933
+Baseline CNN,recyclable,ewaste,145
+Baseline CNN,ewaste,dry,0
+Baseline CNN,ewaste,wet,28
+Baseline CNN,ewaste,recyclable,107
+Baseline CNN,ewaste,ewaste,305
+Class-Weighted CNN,dry,dry,69
+Class-Weighted CNN,dry,wet,5
+Class-Weighted CNN,dry,recyclable,22
+Class-Weighted CNN,dry,ewaste,9
+Class-Weighted CNN,wet,dry,133
+Class-Weighted CNN,wet,wet,2056
+Class-Weighted CNN,wet,recyclable,285
+Class-Weighted CNN,wet,ewaste,57
+Class-Weighted CNN,recyclable,dry,494
+Class-Weighted CNN,recyclable,wet,243
+Class-Weighted CNN,recyclable,recyclable,1552
+Class-Weighted CNN,recyclable,ewaste,146
+Class-Weighted CNN,ewaste,dry,14
+Class-Weighted CNN,ewaste,wet,12
+Class-Weighted CNN,ewaste,recyclable,21
+Class-Weighted CNN,ewaste,ewaste,393
+MobileNetV2 Transfer,dry,dry,27
+MobileNetV2 Transfer,dry,wet,8
+MobileNetV2 Transfer,dry,recyclable,66
+MobileNetV2 Transfer,dry,ewaste,4
+MobileNetV2 Transfer,wet,dry,0
+MobileNetV2 Transfer,wet,wet,2417
+MobileNetV2 Transfer,wet,recyclable,111
+MobileNetV2 Transfer,wet,ewaste,3
+MobileNetV2 Transfer,recyclable,dry,23
+MobileNetV2 Transfer,recyclable,wet,192
+MobileNetV2 Transfer,recyclable,recyclable,2197
+MobileNetV2 Transfer,recyclable,ewaste,23
+MobileNetV2 Transfer,ewaste,dry,0
+MobileNetV2 Transfer,ewaste,wet,1
+MobileNetV2 Transfer,ewaste,recyclable,18
+MobileNetV2 Transfer,ewaste,ewaste,421
+CNN Balanced + Augmentation,dry,dry,76
+CNN Balanced + Augmentation,dry,wet,5
+CNN Balanced + Augmentation,dry,recyclable,22
+CNN Balanced + Augmentation,dry,ewaste,2
+CNN Balanced + Augmentation,wet,dry,71
+CNN Balanced + Augmentation,wet,wet,2154
+CNN Balanced + Augmentation,wet,recyclable,303
+CNN Balanced + Augmentation,wet,ewaste,3
+CNN Balanced + Augmentation,recyclable,dry,444
+CNN Balanced + Augmentation,recyclable,wet,279
+CNN Balanced + Augmentation,recyclable,recyclable,1665
+CNN Balanced + Augmentation,recyclable,ewaste,47
+CNN Balanced + Augmentation,ewaste,dry,26
+CNN Balanced + Augmentation,ewaste,wet,26
+CNN Balanced + Augmentation,ewaste,recyclable,135
+CNN Balanced + Augmentation,ewaste,ewaste,253

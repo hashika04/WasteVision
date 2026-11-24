@@ -1,0 +1,10 @@
+streamlit>=1.35
+numpy
+pandas
+Pillow
+tensorflow
+scikit-learn
+scikit-image
+joblib
+matplotlib
+plotly>=5.20
